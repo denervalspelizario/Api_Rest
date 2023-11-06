@@ -1,0 +1,27 @@
+{
+  "name": "api_rest_testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/** test/** --fix "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denervalspelizario/Api_Rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denervalspelizario/Api_Rest/issues"
+  },
+  "homepage": "https://github.com/denervalspelizario/Api_Rest#readme",
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "jest": "23.6.0"
+  }
+}

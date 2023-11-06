@@ -1,0 +1,10 @@
+
+** BIBLIOTECAS INSTALADAS
+** npm init -y
+** npm i  -D eslint
+** ./node_modules/.bin/eslint --init      
+** ./node_modules/.bin/eslint src/** test/** --fix     adicionar em pacage.json o script  "lint": "eslint src/** test/** --fix "
+** npm i -D jest@23.6.0 -E   adicionar em pacage.json o script "test": "jest",
+   comando para rodar será npm test   adicionar no eslint que o jest existe 
+   em .eslintrc.json adicionar "env": {"jest": true},
+
