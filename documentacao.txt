@@ -11,3 +11,7 @@
 ** npm i -D -E supertest@3.3.0   
 ** npm i -S -E express@4.16.4
 
+
+SECURE MODE
+-- va em package.json em script e adicione "secure-mode": "jest --watch --verbose=true",  e para rodar será npm run secure-mode
+
