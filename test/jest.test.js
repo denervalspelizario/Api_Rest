@@ -1,5 +1,3 @@
-/* eslint-disable linebreak-style */
-
 test('Devo conhecer as principais assertivas do jest', () => {
   // teste 1
   let number = null; // number será null

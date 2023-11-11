@@ -2,5 +2,9 @@
     "env": {
         "jest": true
     },
-    "extends": "airbnb-base"
+    "extends": "airbnb-base",
+    "rules": {
+        "linebreak-style":"off",
+        "import/no-extraneous-dependencies":"off"
+    }
 }

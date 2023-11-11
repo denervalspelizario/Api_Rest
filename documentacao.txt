@@ -8,3 +8,6 @@
    comando para rodar será npm test   adicionar no eslint que o jest existe 
    em .eslintrc.json adicionar "env": {"jest": true},
 
+** npm i -D -E supertest@3.3.0   
+** npm i -S -E express@4.16.4
+
